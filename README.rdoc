@@ -1,28 +1,5 @@
-== README
+== rails4_turnip_capybara_selenium_poltergeist
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The complete app of 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[Rails E2E Test Environment by Rspec, Turnip, Capybara, Selenium and Poltergeist](http://www.liooo.engineer/blog/2015/02/13/rails-e2e-test-environment-by-rspec-turnip-capybara-selenium-and-poltergeist/)
