@@ -1,5 +1,3 @@
 == rails4_turnip_capybara_selenium_poltergeist
 
-The complete app of 
-
-[Rails E2E Test Environment by Rspec, Turnip, Capybara, Selenium and Poltergeist](http://www.liooo.engineer/blog/2015/02/13/rails-e2e-test-environment-by-rspec-turnip-capybara-selenium-and-poltergeist/)
+See http://www.liooo.engineer/blog/2015/02/13/rails-e2e-test-environment-by-rspec-turnip-capybara-selenium-and-poltergeist/
