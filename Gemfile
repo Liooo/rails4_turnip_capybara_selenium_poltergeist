@@ -32,9 +32,12 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+group :development, :test do
+  gem 'rspec-rails'
+end
+
 group :test do
   gem 'turnip'
-  gem 'rspec-rails'
   gem "capybara"
   gem 'poltergeist'
   gem 'selenium-webdriver'
